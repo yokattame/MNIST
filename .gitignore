@@ -1,0 +1,11 @@
+data/
+logs/
+scripts/
+
+#Editor temporaries
+*.swp
+*.~
+
+#Compiled python
+*.pyc
+
